@@ -8,3 +8,5 @@ Some errors faced during coding include -
     Debugging: checking script to fix variable "previous_amount" which was accidentally made a tuple(accidentally inserted a         "," in line 14 of main_pybank.py script between "[0]" and "[amount]") instead of an integer.  
 
 Corrections were made to print() to fit the requirements of the challenge as accurately as possible. 
+
+Note - "cndt" in main_pypoll.py script stands for candidate. This should help understand the script to the fullest.
